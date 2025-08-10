@@ -23,6 +23,7 @@
 
 *It's not the end*
 
-![](https://i.pixiv.re/133187084_p0_master1200.jpg)
+![Elaina](https://raw.githubusercontent.com/LieblingElaina/LieblingElaina/main/Elaina.png)
+
 
 
