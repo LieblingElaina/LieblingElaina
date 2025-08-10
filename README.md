@@ -16,8 +16,8 @@
 
 ## Novels
 
-- [Novel 1 on Bilibili](https://www.bilibili.com/opus/775515710563549254?spm_id_from=333.1387.0.0)  
-- [Novel 2 on Bilibili](https://www.bilibili.com/opus/943714334826037287/?from=readlist)
+- [定风波](https://www.bilibili.com/opus/775515710563549254?spm_id_from=333.1387.0.0)  
+- [诗](https://www.bilibili.com/opus/943714334826037287/?from=readlist)
 
 ---
 
