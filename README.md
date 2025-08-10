@@ -1,11 +1,10 @@
-# Self introduction
+# Just a Self introduction
 
-**LieblingElaina/LieblingElaina** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 ## About Me
 
 - **Game Designer** / **Software Engineering Student** / **Writer** *(maybe)*
-- Learning **Unity & C#**, and **Microsoft Office** *(just a joke)*
+- Learning **Unity & C#**, and **Microsoft Office** *(joke)*
 
 ---
 
